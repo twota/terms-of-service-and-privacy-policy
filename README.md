@@ -1,22 +1,23 @@
 # terms-of-service-and-privacy-policy
 Twota's Terms of Service, Conditions and Privacy Policy
 
+
 Terms of Service
 
-Effective Date: [DefaultOption().termLastUpdateDate]
+Effective Date: July 5, 2025
 
-Welcome to “twota” ©, a dating app designed to help users connect for dating, friendship, or both. By downloading, accessing, or using “twota”, you acknowledge and agree to be bound by the following Terms and Conditions ("Terms"). These Terms form a legally binding agreement between you and Twota Technologies Inc., a company incorporated in British Columbia, Canada (“twota”, “we”, “us”, or “our”). If you do not agree to these Terms, you must not use the “twota”.
+Welcome to “twota” ©, a dating app designed to help users connect for dating, friendship, or both. By downloading, accessing, or using “twota”, you acknowledge and agree to be bound by the following Terms and Conditions ("Terms"). These Terms form a legally binding agreement between you and Twota Technologies Inc., a company incorporated in British Columbia, Canada (“twota”, “we”, “us”, or “our”). If you disagree with these Terms, you must not use the “twota”.
 
 1. Introduction
 Twota Technologies Inc. operates the “twota” app, available on the Apple App Store and Google Play Store. The app includes the following features:
 
 ▪"Explore": Browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. Like or dislike users — mutual likes result in a match.
 
-▪"LiveChat": Connect in real time with online users who match your sexuality, age, and distance preferences.
+▪"LiveChat": Connect in real-time with online users who match your sexuality, age, and distance preferences.
 
 ▪"BlindDate": A weekly anonymous match every Friday, displaying only your name and a blurred photo. To initiate a chat with a BlindDate match, you must be a verified user.
 
-“twota” is committed to fostering respectful, safe, secure, and meaningful interactions, and may adapt or enhance features at any time without prior notice.
+“twota” is committed to fostering respectful, safe, secure, and meaningful interactions, and may adopt or enhance features at any time without prior notice.
 2. Acceptance of Terms
 By using the “twota”, you confirm that:
 ▪You have read, understood, and accepted these Terms.
@@ -31,8 +32,8 @@ To use “twota”, you must:
 ▪Be legally capable of entering into binding agreements.
 ▪Comply with all applicable local, provincial, federal, and international laws.
 ▪Provide truthful, accurate and up-to-date information in your profile and chats.
-▪Not have been previously banned or removed from our services.
-▪Not impersonate any person, entity, or misrepresent your affiliation.
+▪Not been previously banned or removed from our services.
+▪Do not impersonate any person, or entity, or misrepresent your affiliation.
 
 We reserve the right to verify your age and identity at any time. Any violation of these requirements may result in immediate suspension or termination of your account without notice or refund.
 
@@ -44,10 +45,10 @@ We reserve the right to verify your age and identity at any time. Any violation 
 To use “twota”, you must create an account by providing honest, accurate and complete information, including your name, age, gender, location, and preferences.
 
 4.2 Verification
-To maintain our community safe, genuine, and authentic, and also, to access certain features, all users are required to verify their profile within "[DefaultOption().lastDaysForGettingVerification] days" of registration. Failure to complete verification within this timeframe may result in account restrictions. To apply for verification:
+To maintain our community safe, genuine, and authentic, and also to access certain features, all users are required to verify their profile within "7 days" of registration. Failure to complete verification within this timeframe may result in account restrictions. To apply for verification:
 ▪Submit a clear, well-lit selfie showing your face centered and unobstructed.
 ▪All profile photos must feature you and be taken within the past "2 years".
-▪You may attempt verification up to “[DefaultOption().maxApplyForVerification} times”. After [DefaultOption().maxApplyForVerification} failed attempts, your account will be limited to deletion-only access.
+▪You may attempt verification up to “10 times”. After 10 failed attempts, your account will be limited to deletion-only access.
 
 ☑ Note: A "verified" badge indicates that the user's selfie has been manually reviewed and reasonably matches their profile photos. However, no verification process is entirely foolproof. Despite our efforts, some individuals may attempt to circumvent the system. Users are strongly encouraged to exercise caution and good judgment when engaging with others. “twota” does not guarantee the accuracy of any user’s identity, including those marked as verified.
 
@@ -58,10 +59,10 @@ You are solely responsible for maintaining the confidentiality of your login cre
 Paused accounts do not appear in Explore, but can use LiveChat, BlindDate, and message existing matches.
 
 4.5 Match and Message Limits
-▪Maximum active matches: [DefaultOption().maxMatchLimit} matches
-▪Maximum messages per match: [DefaultOption().maxChatMessages} messages
+▪Maximum active matches: 2 matches
+▪Maximum messages per match: 28 messages
 
-☑ Note: If a user exceeds [DefaultOption().maxMatchLimit} active matches, they will be unable to interact with new users or existing matches until they unmatch one or more to return within the permitted limit.
+☑ Note: If a user exceeds 2 active matches, they will be unable to interact with new users or existing matches until they unmatch one or more to return within the permitted limit.
 
 4.6 Account Deletion
 You may delete your account at any time by going to Profile > Account and selecting “Delete Account”. If you signed up using an email address (not through the “Signed up with Google”), you will need to confirm your identity by entering your password. You will also be asked to answer a brief question about whether you found a partner through the app. Once confirmed, your account and all associated data will be permanently deleted.
@@ -71,7 +72,7 @@ You agree to:
 ▪Be honest and transparent in your profile and conversations.
 ▪Treat all users with respect and dignity.
 ▪Refrain from impersonation, scams, or hate speech.
-▪Not post or share private or sensitive information.
+▪Do not post or share private or sensitive information.
 ▪Refrain from ghosting or ignoring your active matches.
 
 Anti-Ghosting Policy
@@ -87,18 +88,18 @@ You are solely responsible for any content you post, share, or transmit on “tw
 
 6.2 Prohibited Content
 You must NOT upload or share content that is:
-▪Illegal, misleading, or infringes upon the rights of others.
+▪Illegal, misleading, or infringing upon the rights of others.
 ▪Sexually explicit or pornographic.
 ▪Threatening, violent, abusive, or promotes hate speech.
 ▪Defamatory, discriminatory, or invasive of someone’s privacy.
 ▪Offensive, deceptive, or intended to deceive or harm others.
 
 6.3 Moderation
-We reserve the right to moderate or remove content, and to suspend or terminate accounts that violate our policies.
+We reserve the right to moderate or remove content and to suspend or terminate accounts that violate our policies.
 
 
 6.4 License to Content
-You retain ownership of your content but grant us a non-exclusive, royalty-free, worldwide license to use, modify, reproduce, and display it for purposes related to the app operation, improvement, and promotion.
+You retain ownership of your content but grant us a non-exclusive, royalty-free, worldwide license to use, modify, reproduce, and display it for purposes related to the app’s operation, improvement, and promotion.
 
 6.5 Copyright Complaints (DMCA Takedown Procedure)
 If you believe content on “twota” infringes your copyright, please contact us at “ info@twota.ca ” with the following information:
@@ -110,7 +111,7 @@ If you believe content on “twota” infringes your copyright, please contact u
 ▪Your physical or electronic signature.
 
 7. Privacy
-Your use of “twota”  is subject to our Privacy Policy. By using the app, you consent to our collection, use, and disclosure of your personal information as described therein (Please read carefully "Privacy Policy" section in this page). 
+Your use of “twota”  is subject to our Privacy Policy. By using the app, you consent to our collection, use, and disclosure of your personal information as described therein (Please read carefully the "Privacy Policy" section on this page). 
 
 8. Safety and Security
 8.1 Reporting Users
@@ -121,7 +122,7 @@ Your use of “twota”  is subject to our Privacy Policy. By using the app, you
 Do not share any financial information or other sensitive personal data with other users. “twota” is not responsible for any harm, loss, or misuse that may result from such disclosures.
 
 8.3 Fraud and Scams
-We employ both automated systems and manual review to detect fraudulent activity. Users found in violation of our policies may be suspended or permanently removed.
+We employ both automated systems and manual reviews to detect fraudulent activity. Users found in violation of our policies may be suspended or permanently removed.
 
 8.4 Zero-Tolerance Policy
 “twota” enforces a zero-tolerance policy against:
@@ -153,12 +154,12 @@ To the fullest extent permitted by law, “twota” disclaims all liability for:
 All content within the app — excluding certain fonts, icons and images — is the intellectual property of Twota Technologies Inc. Any reproduction, distribution, or reuse of this content without prior written consent is strictly prohibited.
 
 14. Third-Party Links
-“twota” may contain links to third-party websites or services, which are provided solely for your convenience. We do not endorse and are not responsible for the content, privacy practices, or operations of any third-party websites or services. Accessing these links is at your own risk
+“twota” may contain links to third-party websites or services, which are provided solely for your convenience. We do not endorse and are not responsible for the content, privacy practices, or operations of any third-party websites or services. Accessing these links is at your own risk.
 
 
 
 15. Indemnification
-You agree to indemnify, defend, and hold harmless Twota Technologies Inc. , along with its affiliates, officers, directors, employees, and agents from any claims, liabilities, damages, losses, or expenses—including reasonable legal fees—arising out of or related to your use of the app or any violation of these Terms.
+You agree to indemnify, defend, and hold harmless Twota Technologies Inc., along with its affiliates, officers, directors, employees, and agents from any claims, liabilities, damages, losses, or expenses—including reasonable legal fees—arising out of or related to your use of the app or any violation of these Terms.
 
 16. Force Majeure
 We are not liable for any delay or failure to perform resulting from causes beyond our reasonable control, including but not limited to natural disasters, internet outages, power failures, labor disputes, acts of government, or other unforeseen events.
@@ -179,13 +180,13 @@ If any provision of these Terms is found to be invalid or unenforceable, the rem
 
 Privacy Policy
 
-Effective Date: [DefaultOption().termLastUpdateDate]
+Effective Date: July 5, 2025
 
 Twota Technologies Inc. (“twota”, “we”, “us”, or “our”) is committed to respecting and protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information. By using the “twota”, you acknowledge and agree to the terms of this Policy.
 
 1. Information We Collect
 1.1 Information You Provide Directly
-▪Name, age, gender, email, location.
+▪Name, age, gender, email, and location.
 ▪Profile details such as photos, bio, preferences, and sexual orientation.
 ▪Selfies submitted for verification purposes.
 ▪Messages and chat content exchanged with other matched users.
@@ -232,12 +233,12 @@ We may disclose information if required by law, regulation, legal process, or go
 In the event of a merger, acquisition, reorganization, or sale of assets, your information may be transferred as part of that transaction.
 
 3.5 In anonymized or aggregated form
-We may share data for research, analytics, or marketing purpose.
+We may share data for research, analytics, or marketing purposes.
 
-☑ Note: We never sell users information to third parties.
+☑ Note: We never sell users’ information to third parties.
 
 4. Data Retention
-We retain data as needed for operations, legal obligations, and fraud prevention. Personal data is deleted right away after of account deletion. But if user has been blocked, their data will be deleted within 100 days of account blocked.
+We retain data as needed for operations, legal obligations, and fraud prevention. Personal data is deleted right away after account deletion. But if the user has been blocked, their data will be deleted within 100 business days of account being blocked.
 
 5. Your Rights and Choices
 Depending on your jurisdiction, you may have the right to:
@@ -260,10 +261,10 @@ Your information may be processed and stored outside of your country of residenc
 9. Third-Party Links
 “twota” may contain links to third-party websites or services. We are not responsible for the privacy practices, content, or policies of these third parties. We encourage you to review their privacy policies before providing any personal information.
 10. Changes to Policy
-We may revise these Privacy Policy at any time. Any changes will be communicated through the app or via email. By accepting the updated Privacy Policy, you may continue using the app; otherwise, you must stop using it. Continued use after updates means acceptance.
+We may revise this Privacy Policy at any time. Any changes will be communicated through the app or via email. By accepting the updated Privacy Policy, you may continue using the app; otherwise, you must stop using it. Continued use after updates means acceptance.
 
 Contact us
-If you have any questions or concerns about these Terms of service, Conditions and Privacy Policy, please contact us at:
+If you have any questions or concerns about these Terms of Service, Conditions and Privacy Policy, please contact us at:
 
 Twota Support Team:
 ▪Website:  www.twota.ca
@@ -276,3 +277,4 @@ Social Media:
 By using “twota” app, you acknowledge that you have read, understood, and agreed to these "Terms of Service and Privacy Policy".
 
 Thank you for choosing “twota”!
+
