@@ -2,7 +2,7 @@
 Twota's Terms of Service, Conditions and Privacy Policy
 
 
-##"Terms of Service"
+"Terms of Service"
 
 Effective Date: July 5, 2025
 
@@ -172,13 +172,7 @@ If any provision of these Terms is found to be invalid or unenforceable, the rem
 
 
 
-
-
-
-
-
-
-Privacy Policy
+"Privacy Policy"
 
 Effective Date: July 5, 2025
 
