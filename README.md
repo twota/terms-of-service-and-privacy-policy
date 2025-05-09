@@ -37,6 +37,7 @@ To use “twota”, you must:
 We reserve the right to verify your age and identity at any time. Any violation of these requirements may result in immediate suspension or termination of your account without notice or refund.
 
 4. User Accounts
+
 4.1 Account Creation
 To use “twota”, you must create an account by providing honest, accurate and complete information, including your name, age, gender, location, and preferences.
 
