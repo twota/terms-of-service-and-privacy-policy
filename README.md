@@ -80,6 +80,7 @@ Anti-Ghosting Policy
 We reserve the right to enforce this policy at its discretion, based on user reports. By using the “twota”, you agree to engage with your active matches respectfully and refrain from ghosting.
 
 6. Content
+
 6.1 User-Generated Content
 You are solely responsible for any content you post, share, or transmit on “twota” including text, images, voice recordings, and videos.
 
@@ -110,6 +111,7 @@ If you believe content on “twota” infringes your copyright, please contact u
 Your use of “twota”  is subject to our Privacy Policy. By using the app, you consent to our collection, use, and disclosure of your personal information as described therein (Please read carefully the "Privacy Policy" section on this page). 
 
 8. Safety and Security
+
 8.1 Reporting Users
 ▪ Only verified users can report others in Explore and LiveChat.
 ▪ All users can report their active matches directly within the chat.
@@ -176,6 +178,7 @@ Effective Date: July 5, 2025
 Twota Technologies Inc. (“twota”, “we”, “us”, or “our”) is committed to respecting and protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information. By using the “twota”, you acknowledge and agree to the terms of this Policy.
 
 1. Information We Collect
+
 1.1 Information You Provide Directly
 ▪ Name, age, gender, email, and location.
 ▪ Profile details such as photos, bio, preferences, and sexual orientation.
