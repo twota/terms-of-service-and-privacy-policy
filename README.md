@@ -77,7 +77,7 @@ To maintain our community safe, genuine, and authentic, and also to access certa
 
 ▪ You may attempt verification up to “10 times”. After 10 failed attempts, your account will be limited to deletion-only access.
 
-☑ Note: A "verified" badge indicates that the user’s selfie has been manually reviewed and reasonably matches their profile photos. However, no verification process is entirely foolproof. Despite our efforts, some individuals may attempt to circumvent the system. Users are strongly encouraged to exercise caution and good judgment when engaging with others. “twota” does not guarantee the accuracy of any user’s identity, including those marked as verified.
+🔔 Note: A "verified" badge indicates that the user’s selfie has been manually reviewed and reasonably matches their profile photos. However, no verification process is entirely foolproof. Despite our efforts, some individuals may attempt to circumvent the system. Users are strongly encouraged to exercise caution and good judgment when engaging with others. “twota” does not guarantee the accuracy of any user’s identity, including those marked as verified.
 
 4.2.1 Account Suspension and Removal for Non-Verification
 To maintain the safety, integrity, and trust of the Twota community, we reserve the right to suspend or permanently disable any user account under the following circumstances:
