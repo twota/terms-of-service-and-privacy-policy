@@ -79,6 +79,17 @@ To maintain our community safe, genuine, and authentic, and also to access certa
 
 ☑ Note: A "verified" badge indicates that the user’s selfie has been manually reviewed and reasonably matches their profile photos. However, no verification process is entirely foolproof. Despite our efforts, some individuals may attempt to circumvent the system. Users are strongly encouraged to exercise caution and good judgment when engaging with others. “twota” does not guarantee the accuracy of any user’s identity, including those marked as verified.
 
+4.2.1 Account Suspension and Removal for Non-Verification
+To maintain the safety, integrity, and trust of the Twota community, we reserve the right to suspend or permanently disable any user account under the following circumstances:
+
+Non-Verified Accounts Beyond 60 Days:
+If a user registers for a Twota account but does not successfully complete the required verification process, or fails to submit a verification request, and more than 60 calendar days have elapsed since the date the account was created.
+
+Non-Verified and Inactive Accounts Beyond 60 Days:
+If a user registers for a Twota account but does not successfully complete the required verification process, or fails to submit a verification request, and has not engaged in any activity or usage of the Twota application.
+
+In such cases, Twota will classify such accounts as spam accounts and will block, suspend, or permanently delete them without prior notice.
+
 ☑ Note: Uploading altered or misleading photos for verification may result in failed verification, restrictions, or permanent suspension.
 
 4.3 Account Responsibility
@@ -393,7 +404,7 @@ We may share data for research, analytics, or marketing purposes.
 
 5. Data Retention
 
-We retain data as needed for operations, legal obligations, and fraud prevention. Personal data is deleted right away after account deletion. But if the user has been blocked, their data will be deleted within 100 business days of the account being blocked.
+We retain data as needed for operations, legal obligations, and fraud prevention. Personal data is deleted right away after account deletion. But if the user has been blocked, their data will be deleted within 160 business days of the account being blocked.
 
 
 6. Your Rights and Choices
