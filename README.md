@@ -14,11 +14,11 @@ Welcome to “Twota” ©, a social networking platform with a built-in dating f
    
 Twota Technologies Inc. operates the “Twota” app, available on the Apple App Store and Google Play Store. The app includes the following features:
 
-▪"Explore": Browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. Like or dislike users — mutual likes result in a match.
+▪ "Explore": Browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. Like or dislike users — mutual likes result in a match.
 
-▪"LiveChat": Connect in real-time with online users who match your sexuality, age, and distance preferences.
+▪ "LiveChat": Connect in real-time with online users who match your sexuality, age, and distance preferences.
 
-▪"BlindDate": A weekly anonymous match every Friday, displaying only your name and a blurred photo. To initiate a chat with a BlindDate match, you must be a verified user.
+▪ "BlindDate": A weekly anonymous match every Friday, displaying only your name and a blurred photo. To initiate a chat with a BlindDate match, you must be a verified user.
 
 “Twota” is committed to fostering respectful, safe, secure, and meaningful interactions, and may adopt or enhance features at any time without prior notice.
 
