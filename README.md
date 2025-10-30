@@ -3,7 +3,7 @@
 
 -------------------------------------------
 
-#Twota's Terms of Service and Privacy Policy
+Twota's Terms of Service and Privacy Policy
 
 Effective Date: July 5, 2025
 
