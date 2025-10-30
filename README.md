@@ -26,11 +26,11 @@ Twota Technologies Inc. operates the “Twota” app, available on the Apple App
    
 By using the “Twota”, you confirm that:
 
-▪You have read, understood, and accepted these Terms.
+▪ You have read, understood, and accepted these Terms.
 
-▪These Terms constitute a legally binding agreement.
+▪ These Terms constitute a legally binding agreement.
 
-▪Continued use after updates constitutes continued acceptance.
+▪ Continued use after updates constitutes continued acceptance.
 
 We may revise these Terms at any time. Any changes will be communicated through the app or via email. By continuing to use the app after changes are made, you accept the updated Terms. If you do not agree to the updated Terms, you must stop using the app immediately.
 
@@ -40,17 +40,17 @@ Arbitration Clause: By agreeing to these Terms, you waive any right to a jury tr
    
 To use “Twota”, you must:
 
-▪Be at least 18 years old.
+▪ Be at least 18 years old.
 
-▪Be legally capable of entering into binding agreements.
+▪ Be legally capable of entering into binding agreements.
 
-▪Comply with all applicable local, provincial, federal, and international laws.
+▪ Comply with all applicable local, provincial, federal, and international laws.
 
-▪Provide truthful, accurate and up-to-date information in your profile and chats.
+▪ Provide truthful, accurate and up-to-date information in your profile and chats.
 
-▪Not been previously banned or removed from our services.
+▪ Not been previously banned or removed from our services.
 
-▪Do not impersonate any person, or entity, or misrepresent your affiliation.
+▪ Do not impersonate any person, or entity, or misrepresent your affiliation.
 
 We reserve the right to verify your age and identity at any time. Any violation of these requirements may result in immediate suspension or termination of your account without notice or refund.
 
@@ -64,11 +64,11 @@ To use “Twota”, you must create an account by providing honest, accurate and
 
 To maintain our community safe, genuine, and authentic, and also to access certain features, all users are required to verify their profile within "7 days" of registration. Failure to complete verification within this timeframe may result in account restrictions. To apply for verification:
 
-▪Submit a clear, well-lit selfie showing your face centred and unobstructed.
+▪ Submit a clear, well-lit selfie showing your face centred and unobstructed.
 
-▪All profile photos must feature you and be taken within the past "2 years".
+▪ All profile photos must feature you and be taken within the past "2 years".
 
-▪You may attempt verification up to “10 times”. After 10 failed attempts, your account will be limited only to "Sign out" and "Delete Account" access.
+▪ You may attempt verification up to “10 times”. After 10 failed attempts, your account will be limited only to "Sign out" and "Delete Account" access.
 
 🔔  Important Note:
 
@@ -78,11 +78,11 @@ A "verified" badge indicates that the user's selfie has been manually reviewed a
 
 To maintain the safety, integrity, and trust of the “Twota” community, we reserve the right to make them invisible, suspend or permanently disable any user account under the following circumstances:
 
-▪Non-Verified Accounts Beyond 60 Days:
+▪ Non-Verified Accounts Beyond 60 Days:
 
 If a user registers for a “Twota” account but does not successfully complete the required verification process, or fails to submit a verification request, and more than 60 calendar days have elapsed since the date the account was created.
 
-▪Non-Verified and also Inactive Accounts Beyond 40 Days:
+▪ Non-Verified and also Inactive Accounts Beyond 40 Days:
 
 If a user registers for a “Twota” account but does not successfully complete the required verification process, or fails to submit a verification request, and has not engaged in any activity or usage of the “Twota” application.
 
@@ -102,9 +102,9 @@ Paused accounts do not appear in Explore, but can use LiveChat, BlindDate, and m
 
 4.5 Match and Message Limits
 
-▪Maximum active matches: 2 matches
+▪ Maximum active matches: 2 matches
 
-▪Maximum messages per match: 24 messages
+▪ Maximum messages per match: 24 messages
 
 ✅ Note: If a user exceeds 2 active matches, they will be unable to interact with new users or existing matches until they unmatch one or more to return within the permitted limit.
 
@@ -116,23 +116,23 @@ You may delete your account at any time by going to Profile > Account and select
    
 You agree to:
 
-▪Be honest and transparent in your profile and conversations.
+▪ Be honest and transparent in your profile and conversations.
 
-▪Treat all users with respect and dignity.
+▪ Treat all users with respect and dignity.
 
-▪Refrain from impersonation, scams, or hate speech.
+▪ Refrain from impersonation, scams, or hate speech.
 
-▪Do not post or share private or sensitive information.
+▪ Do not post or share private or sensitive information.
 
-▪Refrain from ghosting or ignoring your active matches.
+▪ Refrain from ghosting or ignoring your active matches.
 
 Anti-Ghosting Policy
 
-▪1st Offense: Friendly reminder.
+▪ 1st Offense: Friendly reminder.
 
-▪2nd Offense: 1-day suspension.
+▪ 2nd Offense: 1-day suspension.
 
-▪3rd Offense: Permanent ban.
+▪ 3rd Offense: Permanent ban.
 
 We reserve the right to enforce this policy at its discretion, based on user reports. By using the “Twota”, you agree to engage with your active matches respectfully and refrain from ghosting.
 
@@ -144,13 +144,13 @@ You are solely responsible for any content you post, share, or transmit on “Tw
 
 To protect our users, “Twota” employs multiple safeguards and moderation mechanisms for user-generated content, including:
 
-▪A filtering system (using AI and manual review) to detect and block objectionable material before it appears in public feeds.
+▪ A filtering system (using AI and manual review) to detect and block objectionable material before it appears in public feeds.
 
-▪An in-app reporting system allowing users to flag offensive content or behavior. Reports are reviewed promptly by our moderation team.
+▪ An in-app reporting system allowing users to flag offensive content or behavior. Reports are reviewed promptly by our moderation team.
 
-▪The ability to block and report abusive users directly from profiles or chats.
+▪ The ability to block and report abusive users directly from profiles or chats.
 
-▪Published contact information (see "Contact Us" section) so users can easily reach our support team.
+▪ Published contact information (see "Contact Us" section) so users can easily reach our support team.
 
 “Twota” has zero tolerance for any form of objectionable, sexual, violent, threatening, or abusive content or behavior. This includes, but is not limited to, pornographic material, harassment, bullying, objectification of real people, hate speech, and any Chatroulette-style or “hot-or-not” experiences. Accounts found to engage in such conduct will be immediately removed without notice.
 
@@ -164,15 +164,15 @@ All information, photos, and details that user provide to create their profiles 
 
 You must NOT upload or share content that is:
 
-▪Illegal, misleading, or infringing upon the rights of others.
+▪ Illegal, misleading, or infringing upon the rights of others.
 
-▪Sexually explicit or pornographic.
+▪ Sexually explicit or pornographic.
 
-▪Threatening, violent, abusive, or promotes hate speech.
+▪ Threatening, violent, abusive, or promotes hate speech.
 
-▪Defamatory, discriminatory, or invasive of someone's privacy.
+▪ Defamatory, discriminatory, or invasive of someone's privacy.
 
-▪Offensive, deceptive, or intended to deceive or harm others.
+▪ Offensive, deceptive, or intended to deceive or harm others.
 
 6.4 Moderation
 
@@ -186,17 +186,17 @@ You retain ownership of your content but grant us a non-exclusive, royalty-free,
 
 If you believe content on “Twota” infringes your copyright, please contact us at “ info@twota.ca ” with the following information:
 
-▪A description of the copyrighted work you claim has been infringed.
+▪ A description of the copyrighted work you claim has been infringed.
 
-▪A description of where the allegedly infringing content appears in the app.
+▪ A description of where the allegedly infringing content appears in the app.
 
-▪Your full contact information (name, address, phone number, email).
+▪ Your full contact information (name, address, phone number, email).
 
-▪A statement that you have a good faith belief that the use is not authorized by the copyright owner, its agent, or the law.
+▪ A statement that you have a good faith belief that the use is not authorized by the copyright owner, its agent, or the law.
 
-▪A statement, made under penalty of perjury, that the information provided is accurate and that you are the copyright owner or authorized to act on their behalf.
+▪ A statement, made under penalty of perjury, that the information provided is accurate and that you are the copyright owner or authorized to act on their behalf.
 
-▪Your physical or electronic signature.
+▪ Your physical or electronic signature.
 
 7. Privacy
 
@@ -206,9 +206,9 @@ Your use of “Twota”  is subject to our Privacy Policy. By using the app, you
 
 8.1 Reporting Users
 
-▪Only verified users can report others in Explore and LiveChat.
+▪ Only verified users can report others in Explore and LiveChat.
 
-▪All users can report their active matches directly within the chat.
+▪ All users can report their active matches directly within the chat.
 
 8.2 Personal Safety
 
@@ -222,11 +222,11 @@ We employ both automated systems and manual reviews to detect fraudulent activit
 
 “Twota” enforces a zero-tolerance policy against:
 
-▪Underage users.
+▪ Underage users.
 
-▪Fake profiles or scams.
+▪ Fake profiles or scams.
 
-▪Harassment, abuse, or discrimination.
+▪ Harassment, abuse, or discrimination.
 
 9. Termination
 
@@ -234,37 +234,37 @@ We reserve the right to suspend or terminate any account for violations of our p
 
 10. Disclaimers
 
-▪“Twota” is provided on an "as is" basis with no guarantees.
+▪ “Twota” is provided on an "as is" basis with no guarantees.
 
-▪Matches and recommendations are not guaranteed.
+▪ Matches and recommendations are not guaranteed.
 
-▪Content or advice is not professional or legal advice.
+▪ Content or advice is not professional or legal advice.
 
-▪No background checks are conducted on users.
+▪ No background checks are conducted on users.
 
-▪We do not guarantee uninterrupted, completely secure, or error-free service.
+▪ We do not guarantee uninterrupted, completely secure, or error-free service.
 
-▪“Twota” may utilize automated systems and artificial intelligence (AI) to assist with moderation and matchmaking. These systems are continuously reviewed and improved but are not guaranteed to be flawless.
+▪ “Twota” may utilize automated systems and artificial intelligence (AI) to assist with moderation and matchmaking. These systems are continuously reviewed and improved but are not guaranteed to be flawless.
 
 11. Limitation of Liability
 
 To the fullest extent permitted by law, “Twota” disclaims all liability for:
 
-▪Loss of profits, data, or other intangible losses.
+▪ Loss of profits, data, or other intangible losses.
 
-▪User conduct or interactions, whether online or offline.
+▪ User conduct or interactions, whether online or offline.
 
-▪Any indirect, incidental, consequential, or punitive damages arising from the use of the app.
+▪ Any indirect, incidental, consequential, or punitive damages arising from the use of the app.
 
 12. Dispute Resolution and Governing Law
 
-▪These Terms are governed by the laws of British Columbia, Canada.
+▪ These Terms are governed by the laws of British Columbia, Canada.
 
-▪Any disputes will be resolved through binding arbitration in Vancouver, in accordance with the rules of the Canadian Arbitration Association.
+▪ Any disputes will be resolved through binding arbitration in Vancouver, in accordance with the rules of the Canadian Arbitration Association.
 
-▪Class actions and class-wide arbitrations are not permitted.
+▪ Class actions and class-wide arbitrations are not permitted.
 
-▪You may opt out of arbitration by submitting written notice within 30 business days of accepting these Terms.
+▪ You may opt out of arbitration by submitting written notice within 30 business days of accepting these Terms.
 
 13. Intellectual Property
 
@@ -317,31 +317,31 @@ Twota Technologies Inc. (“Twota”, “we”, “us”, or “our”) is commi
 
 1.1 Information You Provide Directly
 
-▪Name, age, gender, email, and location.
+▪ Name, age, gender, email, and location.
 
-▪Profile details such as photos, bio, preferences, and sexual orientation.
+▪ Profile details such as photos, bio, preferences, and sexual orientation.
 
-▪Selfies submitted for verification purposes.
+▪ Selfies submitted for verification purposes.
 
-▪Messages and chat content exchanged with other matched users.
+▪ Messages and chat content exchanged with other matched users.
 
-▪Feedback, surveys, or user experience research.
+▪ Feedback, surveys, or user experience research.
 
 1.2 Information Collected Automatically
 
-▪Device information (e.g., IMEI, MAC address, IP address, Operating System, device model, and unique device identifiers).
+▪ Device information (e.g., IMEI, MAC address, IP address, Operating System, device model, and unique device identifiers).
 
-▪App usage data and interaction patterns.
+▪ App usage data and interaction patterns.
 
-▪Approximate location based on IP or device settings.
+▪ Approximate location based on IP or device settings.
 
 1.3 Information from Third Parties
 
-▪Linked social media accounts, if you choose to connect them.
+▪ Linked social media accounts, if you choose to connect them.
 
-▪Analytics providers that help us understand app usage and performance.
+▪ Analytics providers that help us understand app usage and performance.
 
-▪Advertising networks for ad delivery and measurement purposes.
+▪ Advertising networks for ad delivery and measurement purposes.
 
 ☑ Note: We do not collect biometric or health data.
 
@@ -349,29 +349,29 @@ Twota Technologies Inc. (“Twota”, “we”, “us”, or “our”) is commi
 
 Depending on your jurisdiction, we process your personal data under one or more of the following legal bases:
 
-▪Your consent.
+▪ Your consent.
 
-▪The performance of a contract with you.
+▪ The performance of a contract with you.
 
-▪Compliance with legal obligations.
+▪ Compliance with legal obligations.
 
-▪Our legitimate interests, provided they are not overridden by your rights.
+▪ Our legitimate interests, provided they are not overridden by your rights.
 
 3. How We Use Your Information
 
 We use your information for the following purposes:
 
-▪To create, manage, and maintain your account.
+▪ To create, manage, and maintain your account.
 
-▪To provide matchmaking and connection features.
+▪ To provide matchmaking and connection features.
 
-▪To communicate important updates.
+▪ To communicate important updates.
 
-▪To monitor and analyze usage patterns and detect fraud or misuse.
+▪ To monitor and analyze usage patterns and detect fraud or misuse.
 
-▪To comply with applicable legal and regulatory obligations.
+▪ To comply with applicable legal and regulatory obligations.
 
-▪To conduct research and development for new features and services.
+▪ To conduct research and development for new features and services.
 
 We may also use automated decision-making or profiling tools to support user safety, content moderation, and personalized recommendations. These systems are periodically reviewed to ensure they operate fairly, accurately, and without bias.
 
@@ -409,13 +409,13 @@ We retain data as needed for operations, legal obligations, and fraud prevention
 
 Depending on your jurisdiction, you may have the right to:
 
-▪Access/update/delete account information.
+▪ Access/update/delete account information.
 
-▪Request a copy of your data if you have not deleted your profile (data portability).
+▪ Request a copy of your data if you have not deleted your profile (data portability).
 
-▪Restrict or object to certain types of data processing.
+▪ Restrict or object to certain types of data processing.
 
-▪Withdraw your consent at any time (where applicable).
+▪ Withdraw your consent at any time (where applicable).
 
 To exercise any of these rights, please contact us at “ info@twota.ca ”. We will respond to all verified requests within 30 business days.
 
@@ -423,7 +423,7 @@ To exercise any of these rights, please contact us at “ info@twota.ca ”. We 
 
 We implement industry-standard security measures, including encryption, and access controls, to protect your personal information. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute protection of your data.
 
-▪Data Breach Notification: In the event of a data breach involving your personal information, we will notify you and the relevant authorities as required by applicable law.
+▪ Data Breach Notification: In the event of a data breach involving your personal information, we will notify you and the relevant authorities as required by applicable law.
 
 8. International Data Transfers
 
@@ -437,7 +437,7 @@ Your information may be processed and stored outside of your country of residenc
 
 “Twota” may contain links to third-party websites or services. We are not responsible for the privacy practices, content, or policies of these third parties. We encourage you to review their privacy policies before providing any personal information.
 
-▪Do Not Track (DNT) Signals: Our systems do not currently recognize or respond to "Do Not Track" signals sent by browsers. To manage tracking preferences, please consult your browser settings.
+▪ Do Not Track (DNT) Signals: Our systems do not currently recognize or respond to "Do Not Track" signals sent by browsers. To manage tracking preferences, please consult your browser settings.
 
 11. Policy Updates
 
@@ -450,15 +450,15 @@ Contact us
 If you have any questions or concerns about these Terms of Service, Conditions and Privacy Policy, please contact us at:
 
 “Twota” Support Team:
-▪Website:  www.twota.ca
-▪Email:  info@twota.ca
-▪Inside the app:  Profile > About Us
-▪Phone:  (+1) 778-330-9682 (Message, WhatsApp, or Telegram)
+▪ Website:  www.twota.ca
+▪ Email:  info@twota.ca
+▪ Inside the app:  Profile > About Us
+▪ Phone:  (+1) 778-330-9682 (Message, WhatsApp, or Telegram)
 
 Social Media:
-▪Instagram:  @Twota.Dating
-▪Youtube:  @Twota.Dating
-▪TikTok:  @Twota.Dating
+▪ Instagram:  @Twota.Dating
+▪ Youtube:  @Twota.Dating
+▪ TikTok:  @Twota.Dating
 
 By using “Twota” app, you acknowledge that you have read, understood, and agreed to these "Terms of Service and Privacy Policy".
 
