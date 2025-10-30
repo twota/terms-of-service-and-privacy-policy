@@ -1,11 +1,12 @@
 
 # terms-of-service-and-privacy-policy
 
+-------------------------------------------
 
 Twota's Terms of Service and Privacy Policy
 
-
 Effective Date: July 5, 2025
+
 
 Welcome to “Twota” ©, a social networking platform with a built-in dating feature designed to help users connect for dating, friendship, or both. By downloading, accessing, or using “Twota”, you acknowledge and agree to be bound by the following Terms and Conditions ("Terms"). These Terms form a legally binding agreement between you and Twota Technologies Inc., a company incorporated in British Columbia, Canada (“Twota”, “we”, “us”, or “our”). If you disagree with these Terms, you must not use the “Twota”.
 
@@ -304,9 +305,11 @@ Any feedback or suggestions submitted by you become our property. We may use the
 
 --------------
 
+
 Privacy Policy
 
 Effective Date: July 5, 2025
+
 
 Twota Technologies Inc. (“Twota”, “we”, “us”, or “our”) is committed to respecting and protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information. By using the “Twota”, you acknowledge and agree to the terms of this Policy.
 
@@ -402,7 +405,7 @@ We may share data for research, analytics, or marketing purposes.
 
 We retain data as needed for operations, legal obligations, and fraud prevention. Personal data is deleted right away after account deletion. But if the user has been blocked, their data will be deleted within 160 business days of the account being blocked.
 
-7. Your Rights and Choices
+6. Your Rights and Choices
 
 Depending on your jurisdiction, you may have the right to:
 
@@ -426,17 +429,17 @@ We implement industry-standard security measures, including encryption, and acce
 
 Your information may be processed and stored outside of your country of residence, including in jurisdictions that may not offer the same level of data protection. In such cases, we implement appropriate safeguards—such as Standard Contractual Clauses or equivalent measures—to ensure your data is adequately protected.
 
-10. Children's Privacy
+9. Children's Privacy
 
 “Twota” is intended for users aged 18 and older. We do not knowingly collect personal information from individuals under the age of 18. If we become aware that a minor has created an account or provided personal data, we will take immediate steps to delete the account and associated information.
 
-11. Third-Party Links
+10. Third-Party Links
 
 “Twota” may contain links to third-party websites or services. We are not responsible for the privacy practices, content, or policies of these third parties. We encourage you to review their privacy policies before providing any personal information.
 
 ▪Do Not Track (DNT) Signals: Our systems do not currently recognize or respond to "Do Not Track" signals sent by browsers. To manage tracking preferences, please consult your browser settings.
 
-12. Policy Updates
+11. Policy Updates
 
 We may revise this Privacy Policy at any time. Any changes will be communicated through the app or via email. By accepting the updated Privacy Policy, you may continue using the app; otherwise, you must stop using it. Continued use after updates means acceptance.
 
