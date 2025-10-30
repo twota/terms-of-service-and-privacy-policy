@@ -98,7 +98,7 @@ You are solely responsible for maintaining the confidentiality of your login cre
 
 4.4 Account Pausing
 
-Paused accounts do not appear in Explore, but can use LiveChat, BlindDate, and message existing matches.
+Paused accounts do not appear in Explore, but users can use LiveChat, BlindDate, and message existing matches.
 
 4.5 Match and Message Limits
 
@@ -134,7 +134,7 @@ Anti-Ghosting Policy
 
 ▪ 3rd Offense: Permanent ban.
 
-We reserve the right to enforce this policy at its discretion, based on user reports. By using the “Twota”, you agree to engage with your active matches respectfully and refrain from ghosting.
+We reserve the right to enforce this policy at our discretion, based on user reports. By using the “Twota”, you agree to engage with your active matches respectfully and refrain from ghosting.
 
 6. Content
    
@@ -158,7 +158,7 @@ If your app experience includes access to user-generated content from external w
 
 6.2 Profile Visibility
 
-All information, photos, and details that user provide to create their profiles — including but not limited to name, age, gender, preferences, and biography — are publicly visible to other users within the “Twota” app, in accordance with each user's privacy settings and applicable laws. Users are advised not to include sensitive personal or contact information in their profiles, as such information may be visible to other users.
+All information, photos, and details that users provide to create their profiles — including but not limited to name, age, gender, preferences, and biography — are publicly visible to other users within the “Twota” app, in accordance with each user's privacy settings and applicable laws. Users are advised not to include sensitive personal or contact information in their profiles, as such information may be visible to other users.
 
 6.3 Prohibited Content
 
@@ -176,7 +176,7 @@ You must NOT upload or share content that is:
 
 6.4 Moderation
 
-We may use AI tools and manual review to moderate or remove content; and to suspend or terminate accounts that violate our policies. Mistakes may occur, and users can appeal decisions
+We may use AI tools and manual review to moderate or remove content, and to suspend or terminate accounts that violate our policies. Mistakes may occur, and users can appeal decisions
 
 6.5 License to Content
 
@@ -244,7 +244,7 @@ We reserve the right to suspend or terminate any account for violations of our p
 
 ▪ We do not guarantee uninterrupted, completely secure, or error-free service.
 
-▪ “Twota” may utilize automated systems and artificial intelligence (AI) to assist with moderation and matchmaking. These systems are continuously reviewed and improved but are not guaranteed to be flawless.
+▪ “Twota” may utilize automated systems and artificial intelligence (AI) to assist with moderation and matchmaking. These systems are continuously reviewed and improved, but are not guaranteed to be flawless.
 
 11. Limitation of Liability
 
@@ -421,7 +421,7 @@ To exercise any of these rights, please contact us at “ info@twota.ca ”. We 
 
 7. Security
 
-We implement industry-standard security measures, including encryption, and access controls, to protect your personal information. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute protection of your data.
+We implement industry-standard security measures, including encryption and access controls, to protect your personal information. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute protection of your data.
 
 ▪ Data Breach Notification: In the event of a data breach involving your personal information, we will notify you and the relevant authorities as required by applicable law.
 
