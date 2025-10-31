@@ -62,53 +62,53 @@ To use “Twota”, you must create an account by providing honest, accurate and
 
 4.2 Verification
 
-To maintain our community safe, genuine, and authentic, and also to access certain features, all users are required to verify their profile within "7 days" of registration. Failure to complete verification within this timeframe may result in account restrictions. To apply for verification:
+To maintain our community safe, genuine, and authentic, and also to access certain features, all users are required to verify their profile within "X days" of registration. Failure to complete verification within this timeframe may result in account restrictions. To apply for verification:
 
-▪ Submit a clear, well-lit selfie showing your face centred and unobstructed.
+▪ Submit a clear, well-lit selfie showing your face centered and unobstructed.
 
 ▪ All profile photos must feature you and be taken within the past "2 years".
 
-▪ You may attempt verification up to “10 times”. After 10 failed attempts, your account will be limited only to "Sign out" and "Delete Account" access.
+▪ You may attempt verification up to “X times”. After X failed attempts, your account will be limited only to "Sign out" and "Delete Account" access.
 
-🔔  Important Note:
-
-A "verified" badge indicates that the user's selfie has been manually reviewed and reasonably matches their profile photos. However, no verification process is entirely foolproof. Despite our efforts, some individuals may attempt to circumvent the system. Users are strongly encouraged to exercise caution and good judgment when engaging with others. “Twota” does not guarantee the accuracy of any user's identity, including those marked as verified.
-
-4.2.1 Account Suspension and Removal for Non-Verification
-
-To maintain the safety, integrity, and trust of the “Twota” community, we reserve the right to make them invisible, suspend or permanently disable any user account under the following circumstances:
-
-▪ Non-Verified Accounts Beyond 60 Days:
-
-If a user registers for a “Twota” account but does not successfully complete the required verification process, or fails to submit a verification request, and more than 60 calendar days have elapsed since the date the account was created.
-
-▪ Non-Verified and also Inactive Accounts Beyond 40 Days:
-
-If a user registers for a “Twota” account but does not successfully complete the required verification process, or fails to submit a verification request, and has not engaged in any activity or usage of the “Twota” application.
-
-In such cases, “Twota” will classify such accounts as spam accounts and will make them invisible, block, suspend, or permanently delete them without prior notice.
-
-🔔  Important Note:
+🔔 Important Note:
 
 Uploading altered or misleading photos for verification may result in failed verification, restrictions, or permanent suspension.
 
-4.3 Account Responsibility
+🔔 Important Note:
+
+A "verified" badge indicates that the user's selfie has been manually reviewed and reasonably matches their profile photos. However, no verification process is entirely foolproof. Despite our efforts, some individuals may attempt to circumvent the system. Users are strongly encouraged to exercise caution and good judgment when engaging with others. “Twota” does not guarantee the accuracy of any user’s identity, including those marked as verified.
+
+4.3 Account Visibility, Suspension and Removal
+
+To maintain the safety, integrity, and trust of the “Twota” community, we reserve the right to make invisible, suspend or permanently disable any user account under the following circumstances:
+
+▪ Non-Verified Accounts Beyond 30 Days:
+
+If a user registers for a “Twota” account but does not successfully complete the required verification process, or fails to submit a verification request, and more than "X calendar days" have elapsed since the date the account was created.
+
+▪ Inactive Accounts Beyond 90 Days:
+
+If a user registers for a “Twota” account but has not engaged in any activity or usage of the “Twota” application for more than "X calendar days".
+
+In such cases, “Twota” will classify such accounts as spam accounts and will make them invisible, suspend, block, or permanently delete them without prior notice.
+
+4.4 Account Responsibility
 
 You are solely responsible for maintaining the confidentiality of your login credentials and for all activity that occurs under your account. Please report to us immediately any unauthorized access or use.
 
-4.4 Account Pausing
+4.5 Account Pausing
 
 Paused accounts do not appear in Explore, but users can use LiveChat, BlindDate, and message existing matches.
 
-4.5 Match and Message Limits
+4.6 Match and Message Limits
 
-▪ Maximum active matches: 2 matches
+▪ Maximum active matches: X matches
 
-▪ Maximum messages per match: 24 messages
+▪ Maximum messages per match: X messages
 
-✅ Note: If a user exceeds 2 active matches, they will be unable to interact with new users or existing matches until they unmatch one or more to return within the permitted limit.
+✅ Note: If a user exceeds X active matches, they will be unable to interact with new users or existing matches until they unmatch one or more to return within the permitted limit.
 
-4.6 Account Deletion
+4.7 Account Deletion
 
 You may delete your account at any time by going to Profile > Account and selecting “Delete Account”. If you signed up using an email address (not through the “Signed up with Google”), you will need to confirm your identity by entering your password. You will also be asked to answer a brief question about whether you found a partner through the app. Once confirmed, your account and all associated data will be permanently deleted.
 
