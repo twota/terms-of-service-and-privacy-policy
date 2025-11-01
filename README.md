@@ -339,9 +339,13 @@ By using "Twota", you represent and warrant that (i) you are not located in a co
 21.8 Developer Information
 
 ▪Developer Name:  Twota Technologies Inc.
+
 ▪Registered Jurisdiction:  British Columbia, Canada
+
 ▪Email:  info@twota.ca
+
 ▪Website:  www.twota.ca
+
 ▪Phone:  (+1) 778-330-9682
 
 If you have any questions, complaints, or claims regarding "Twota", please contact us using the information above.
@@ -509,14 +513,19 @@ If you have any questions or concerns about these Terms of Service, Conditions a
 "Twota" Support Team:
 
 ▪Website:  www.twota.ca
+
 ▪Email:  info@twota.ca
+
 ▪Inside the app:  Profile > About Us
+
 ▪Phone:  (+1) 778-330-9682 (Message, WhatsApp, or Telegram)
 
 Social Media:
 
 ▪Instagram:  @Twota.Dating
+
 ▪Youtube:  @Twota.Dating
+
 ▪TikTok:  @Twota.Dating
 
 By using "Twota" app, you acknowledge that you have read, understood, and agreed to these "Terms of Service and Privacy Policy".
