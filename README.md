@@ -1,10 +1,12 @@
 
 #terms-of-service-and-privacy-policy
 
+----------------------------------------------------
 
 Terms of Service and End-User License Agreement (EULA)
 
 ----------------------------------------------------
+
 Effective Date: July 5, 2025
 
 Welcome to "Twota" ©, a social networking platform with a built-in dating feature designed to help users connect for dating, friendship, or both. By downloading, accessing, or using "Twota", you acknowledge and agree to be bound by the following Terms and Conditions ("Terms").
@@ -305,7 +307,7 @@ We may modify or discontinue features without prior notice. We are not liable fo
 
 Any feedback or suggestions submitted by you become our property. We may use them without compensation.
 
-21. End-User License Agreement (EULA)
+21. End-User License Agreement (EULA) - For Apple Users
 
 21.1 Relationship with Apple
 
@@ -357,7 +359,11 @@ Apple Inc. and its subsidiaries are third-party beneficiaries of this Agreement.
 
 You acknowledge and agree that your use of "Twota" is subject to Twota Technologies Inc.'s strict zero-tolerance policy for objectionable, abusive, or unlawful content or behavior. You must not upload, transmit, or engage in any activity that includes or promotes sexual, violent, threatening, harassing, hateful, discriminatory, or otherwise offensive material. Twota Technologies Inc. reserves the right to suspend or terminate your account and to remove any content at its sole discretion if such conduct occurs. Twota Technologies Inc. will cooperate with law-enforcement authorities and Apple Inc. where required by applicable law.
 
+----------------------------------------------------
+
 Privacy Policy
+
+----------------------------------------------------
 
 Effective Date: July 5, 2025
 
@@ -493,7 +499,11 @@ Your information may be processed and stored outside of your country of residenc
 
 We may revise this Privacy Policy at any time. Any changes will be communicated through the app or via email. By accepting the updated Privacy Policy, you may continue using the app; otherwise, you must stop using it. Continued use after updates means acceptance.
 
+----------------------------------------------------
+
 Contact us
+
+----------------------------------------------------
 
 If you have any questions or concerns about these Terms of Service, Conditions and Privacy Policy, please contact us at:
 
