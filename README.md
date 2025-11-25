@@ -64,7 +64,7 @@ We reserve the right to verify your age and identity at any time. Any violation 
 To use "Twota", you must create an account by providing honest, accurate and complete information, including your name, age, gender, location, and preferences.
 
 4.2 Verification
-To keep our community safe, genuine, and authentic, and also to access certain features, all users are required to verify their profile within "7 days" of registration. Failure to complete verification within this timeframe may result in account restrictions. To apply for verification:
+To keep our community safe, genuine, and authentic, and also to access certain features, all users are required to verify their profile within "22 days" of registration. Failure to complete verification within this timeframe may result in account restrictions. To apply for verification:
 
 ▪Submit a clear, well-lit selfie showing your face centered and unobstructed.
 
@@ -105,7 +105,7 @@ Paused accounts do not appear in Explore, but users can still use LiveChat, Blin
 
 ▪Maximum active matches: 2 matches
 
-▪Maximum messages per match: 24 messages
+▪Maximum messages per match: 28 messages
 
 ✅ Note: If a user exceeds 2 active matches, they will be unable to interact with new users or existing matches until they unmatch one or more to return within the permitted limit.
 
