@@ -15,17 +15,17 @@ These Terms form a legally binding agreement between you and Twota Technologies 
 
 Twota Technologies Inc. operates the "Twota" app, available on the Apple App Store and Google Play Store. The app includes the following features:
 
-▪"Explore": 
+◼"Explore": 
 
-1.“New”: In the “New” tab, browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. You can like or dislike profiles — mutual likes result in a match.
+  ◾“New”: In the “New” tab, browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. You can like or dislike profiles — mutual likes result in a match.
 
-2.“Wall”: The “Wall” tab is available to users who are verified and have created a banner. In this tab, users can browse banners from other users, filtered by sexuality, age, distance, and additional preferences.
+  ◾“Wall”: The “Wall” tab is available to users who are verified and have created a banner. In this tab, users can browse banners from other users, filtered by sexuality, age, distance, and additional preferences.
 
-▪"LiveChat": Connect in real time with online users who match your sexuality, age, and distance preferences.
+◼"LiveChat": Connect in real time with online users who match your sexuality, age, and distance preferences.
 
-▪"BlindDate": A weekly anonymous match every Friday, displaying only your name and a blurred photo. To initiate a chat with a BlindDate match, you must be a verified user.
+◼"BlindDate": A weekly anonymous match every Friday, displaying only your name and a blurred photo. To initiate a chat with a BlindDate match, you must be a verified user.
 
-▪"Messages": Enables users who have mutually matched to communicate through private conversations within the app.
+◼"Messages": Enables users who have mutually matched to communicate through private conversations within the app.
 
 "Twota" is committed to fostering respectful, safe, secure, and meaningful interactions, and may adopt, modify, or enhance features at any time without prior notice.
 
