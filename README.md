@@ -17,9 +17,9 @@ Twota Technologies Inc. operates the "Twota" app, available on the Apple App Sto
 
 ▪"Explore": 
 
-    ▪“New”: In the “New” tab, browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. You can like or dislike profiles — mutual likes result in a match.
+1.“New”: In the “New” tab, browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. You can like or dislike profiles — mutual likes result in a match.
 
-    ▪“Wall”: The “Wall” tab is available to users who are verified and have created a banner. In this tab, users can browse banners from other users, filtered by sexuality, age, distance, and additional preferences.
+2.“Wall”: The “Wall” tab is available to users who are verified and have created a banner. In this tab, users can browse banners from other users, filtered by sexuality, age, distance, and additional preferences.
 
 ▪"LiveChat": Connect in real time with online users who match your sexuality, age, and distance preferences.
 
