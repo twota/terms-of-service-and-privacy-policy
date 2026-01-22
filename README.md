@@ -5,7 +5,7 @@ Terms of Service and End-User License Agreement (EULA)
 
 ----------------------------
 
-Effective Date: July 5, 2025
+Effective Date: January 22, 2026
 
 Welcome to "Twota" ©, a social networking platform with a built-in dating feature designed to help users connect for dating, friendship, or both. By downloading, accessing, or using "Twota", you acknowledge and agree to be bound by the following Terms and Conditions ("Terms").
 
@@ -15,7 +15,11 @@ These Terms form a legally binding agreement between you and Twota Technologies 
 
 Twota Technologies Inc. operates the "Twota" app, available on the Apple App Store and Google Play Store. The app includes the following features:
 
-▪"Explore": Browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. Like or dislike users — mutual likes result in a match.
+▪"Explore": 
+
+    ▪“New”: In the “New” tab, browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. You can like or dislike profiles — mutual likes result in a match.
+
+    ▪“Wall”: The “Wall” tab is available to users who are verified and have created a banner. In this tab, users can browse banners from other users, filtered by sexuality, age, distance, and additional preferences.
 
 ▪"LiveChat": Connect in real time with online users who match your sexuality, age, and distance preferences.
 
@@ -368,7 +372,7 @@ Privacy Policy
 
 ----------------------------
 
-Effective Date: July 5, 2025
+Effective Date: January 22, 2026
 
 Twota Technologies Inc. ("Twota", "we", "us", or "our") is committed to respecting and protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use the "Twota" app. By downloading, registering, or using the app, you acknowledge that you have read, understood, and agreed to the terms of this Policy.
 
