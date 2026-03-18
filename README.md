@@ -17,10 +17,10 @@ Twota Technologies Inc. operates the “Twota” app, available on the Apple App
 
 ◾"Explore":
 
-  ▪“New”: In the “New” tab, browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. You can like or dislike profiles — mutual likes result in a match.
-  
-  ▪“Wall”: The “Wall” tab is available to users who are verified and have created a banner. In this tab, users can browse banners from other users, filtered by sexuality, age, distance, and additional preferences.
-  
+▪“New”: In the “New” tab, browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. You can like or dislike profiles — mutual likes result in a match.
+
+▪“Wall”: The “Wall” tab is available to users who are verified and have created a banner. In this tab, users can browse banners from other users, filtered by sexuality, age, distance, and additional preferences.
+
 ◾"LiveChat":
 
 Connect in real time with online users who match your sexuality, age, and distance preferences.
@@ -143,11 +143,11 @@ You agree to:
 
 Anti-Ghosting Policy
 
-▪1st Offense: Friendly reminder.
+▪1st Offense: Friendly reminder
 
-▪2nd Offense: 1-day suspension.
+▪2nd Offense: 1-day suspension
 
-▪3rd Offense: Permanent ban.
+▪3rd Offense: Permanent ban
 
 We reserve the right to enforce this policy at our discretion, based on user reports. By using the “Twota”, you agree to engage with your active matches respectfully and refrain from ghosting.
 
@@ -166,6 +166,8 @@ To protect our users, “Twota” employs multiple safeguards and moderation mec
 ▪The ability to block and report abusive users directly from profiles or chats.
 
 ▪Published contact information (see "Contact Us" section) so users can easily reach our support team.
+
+🔔 Important Note:
 
 “Twota” has zero tolerance for any form of objectionable, sexual, violent, threatening, or abusive content or behavior. This includes, but is not limited to, pornographic material, harassment, bullying, objectification of real people, hate speech, and any Chatroulette-style or “hot-or-not” experiences. Accounts found to engage in such conduct will be immediately removed without notice.
 
@@ -267,6 +269,8 @@ Users are strictly prohibited from:
 
 Any violation of this policy will result in immediate account suspension or permanent termination.
 
+🔔 Important Note:
+
 Twota Technologies Inc. reserves the right to report suspected child sexual abuse, exploitation, or child sexual abuse material (CSAM) to appropriate law-enforcement authorities and child-protection organizations, in accordance with applicable laws and regulations.
 
 We fully comply with all applicable child safety laws, including but not limited to laws related to the prevention of child sexual exploitation and online abuse.
@@ -278,16 +282,10 @@ Child Safety Contact:
 
 ▪Email: info@twota.ca
 
-▪Contact Purpose ( Email Subject ):
+This contact is responsible for reviewing child safety reports and taking enforcement actions when required.
 
-    •	Child safety reports
-    
-    •	CSAE / CSAM concerns
-    
-    •	Law enforcement requests
-    
-    •	Policy compliance matters
-    
+This contact may also receive notifications from Google Play, law enforcement agencies, or child protection organizations regarding child safety concerns.
+
 9.	Termination
 
 We reserve the right to suspend or terminate any account for violations of our policies or at our sole discretion. Termination will result in the loss of all access to the app and its features.
@@ -335,7 +333,6 @@ All content within the app — excluding certain fonts, icons and images — is 
 13.1 Images/Icons Attribution Notice
 
 Some images/icons used in “Twota” are sourced from third-party libraries and are subject to their respective licenses. Full attribution and licensing details can be found at:
-
 Full Attribution and Licensing Details
 
 14.	Third-Party Links
@@ -366,37 +363,144 @@ We may modify or discontinue features without prior notice. We are not liable fo
 
 Any feedback or suggestions submitted by you become our property. We may use them without compensation.
 
-21.	End-User License Agreement (EULA)
+21.	Child Safety Standards
 
-21.1 Relationship with Apple
+Twota Technologies Inc., developer of the “Twota” app (published on Google Play as "Twota: Dating with Heart"), strictly prohibits any form of Child Sexual Abuse and Exploitation (CSAE) on its platform.
+
+21.1 Zero-Tolerance Policy
+
+The “Twota” app does not allow any content, behavior, or interaction that involves, promotes, or facilitates the exploitation or abuse of minors.
+
+Prohibited activities include, but are not limited to:
+
+▪Uploading, sharing, or distributing child sexual abuse material (CSAM)
+
+▪Grooming or attempting to establish contact with a minor for sexual purposes
+
+▪Sexualization of minors in any form
+
+▪Sextortion involving minors
+
+▪Trafficking or solicitation involving minors
+
+▪Creating accounts for individuals under 18 years old
+
+▪Any interaction that endangers a child
+
+🔔 Important Note:
+
+Any violation will result in immediate account suspension or permanent removal.
+
+21.2 Reporting, Enforcement, and In-App Reporting Mechanism
+
+Twota Technologies Inc. actively monitors reports and uses automated systems and manual moderation to detect harmful content. All users can block or report other users from the chat screen. Verified users can also block or report users anywhere in the “Twota” app where reporting buttons are available.
+
+Available report options include:
+
+▪Just not interested
+
+▪Fake Profile
+
+▪Scam or Fraud
+
+▪Abusive Behaviour
+
+▪Hate Speech
+
+▪Inappropriate Content
+
+▪Underage User (used for child safety concerns, minors, or suspected child exploitation)
+
+Handling Reports:
+
+We use a reporting threshold system to identify accounts that may violate our policies. When a report threshold is reached, the account is flagged in the Reports Admin Panel for review by our moderation team.
+
+Each report is reviewed carefully. Depending on the severity of the violation, actions may include:
+
+▪Warning the user
+
+▪Temporary suspension
+
+▪Permanent suspension (Blocked Account)
+
+▪Permanent account removal
+
+Child Safety Enforcement
+
+Any report involving minors, underage users, child sexual abuse, exploitation, or suspected CSAM is treated with the highest priority.
+
+When Twota Technologies Inc. obtains actual knowledge of child sexual abuse material (CSAM) or child exploitation, we will:
+
+▪Remove the content immediately
+
+▪Suspend or terminate the responsible account
+
+▪Preserve evidence when required by law
+
+▪Report the incident to appropriate law-enforcement authorities
+
+▪Report to the National Center for Missing & Exploited Children (NCMEC) or the appropriate regional authority when required
+
+🔔 Important Note:
+
+Twota Technologies Inc. reserves the right to take any action necessary to protect users, comply with child safety laws, and maintain a safe environment on the platform.
+
+Reports may be submitted through:
+
+▪In-app report feature
+
+▪Email contact listed below
+
+▪Law-enforcement request
+
+21.3 Child Safety Point of Contact
+
+Twota Technologies Inc.
+
+Child Safety Contact
+
+Email: info@twota.ca
+
+This contact is responsible for reviewing child safety reports and taking enforcement actions when required.
+
+This contact may also receive notifications from Google Play, law enforcement agencies, or child protection organizations regarding child safety concerns.
+
+21.4 Compliance With Child Safety Laws
+
+Twota Technologies Inc. complies with all applicable child safety laws and regulations, including laws related to the prevention of child sexual abuse, child exploitation, and online safety.
+Where required by law, Twota Technologies Inc. will report confirmed CSAM to the National Center for Missing & Exploited Children (NCMEC) or the appropriate regional authority.
+
+22.	End-User License Agreement (EULA)
+
+22.1 Relationship with Apple
 
 This Agreement is between you and Twota Technologies Inc., not Apple Inc. Apple Inc. is not responsible for the “Twota” app or any of its content. Your use of “Twota” must also comply with the Apple Media Services Terms and Conditions. Twota Technologies Inc., not Apple, is solely responsible for the Licensed Application and everything contained in it.
 
-21.2 License Scope
+22.2 License Scope
 
 Twota Technologies Inc. grants you a limited, non-transferable license to install and use “Twota” on any Apple-branded product that you own or control and as permitted under the Usage Rules in the Apple Media Services Terms and Conditions. You may also access and use “Twota” through Family Sharing or volume-purchasing arrangements provided by Apple.
 
-21.3 Maintenance and Support
+22.3 Maintenance and Support
 
 Twota Technologies Inc. alone is responsible for providing any maintenance or support services for “Twota”, as required by these Terms or applicable law. Apple Inc. has no obligation whatsoever to furnish any maintenance or support services for “Twota”.
 
-21.4 Warranty
+22.4 Warranty
 
 Twota Technologies Inc. is solely responsible for any product warranties, whether express or implied by law, to the extent they have not been disclaimed under these Terms. If “Twota” fails to conform to any applicable warranty, you may notify Apple Inc., and Apple will refund the purchase price (if any) for the app to you. To the maximum extent permitted by law, Apple Inc. will have no other warranty obligation with respect to “Twota”, and any other losses, liabilities, damages, costs, or expenses arising from a warranty failure are the sole responsibility of Twota Technologies Inc.
 
-21.5 Product Claims
+22.5 Product Claims
 
 Twota Technologies Inc., not Apple Inc., is responsible for addressing any claims made by you or a third party relating to your possession or use of “Twota”. This includes, without limitation: (i) product-liability claims; (ii) claims that “Twota” fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer-protection, privacy, or similar laws, including any use of HealthKit, HomeKit, or comparable frameworks.
 
-21.6 Intellectual-Property Rights
+22.6 Intellectual-Property Rights
 
 If a third party claims that “Twota” or your possession and use of it infringe that third party’s intellectual-property rights, Twota Technologies Inc., not Apple Inc., is solely responsible for investigating, defending, settling, and resolving such a claim.
 
-21.7 Legal Compliance
+22.7 Legal Compliance
 
 By using “Twota”, you represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo or that has been designated by the U.S. Government as a “terrorist-supporting” country, and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
 
-21.8 Developer Information
+22.8 Developer Information
 
 ▪Developer Name: Twota Technologies Inc.
 
@@ -410,15 +514,15 @@ By using “Twota”, you represent and warrant that (i) you are not located in 
 
 If you have any questions, complaints, or claims regarding “Twota”, please contact us using the information above.
 
-21.9 Third-Party Terms
+22.9 Third-Party Terms
 
 When using “Twota”, you must comply with all applicable third-party agreements. For example, if “Twota” allows communication over the internet or through your mobile network, you must ensure that such use does not violate your wireless-data-service agreement or any similar contract.
 
-21.10 Third-Party Beneficiaries
+22.10 Third-Party Beneficiaries
 
 Apple Inc. and its subsidiaries are third-party beneficiaries of this Agreement. Upon your acceptance of these Terms, Apple Inc. will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary.
 
-21.11 Prohibited Conduct and Zero-Tolerance Policy
+22.11 Prohibited Conduct and Zero-Tolerance Policy
 
 You acknowledge and agree that your use of “Twota” is subject to Twota Technologies Inc.’s strict zero-tolerance policy for objectionable, abusive, or unlawful content or behavior. You must not upload, transmit, or engage in any activity that includes or promotes sexual, violent, threatening, harassing, hateful, discriminatory, or otherwise offensive material. Twota Technologies Inc. reserves the right to suspend or terminate your account and to remove any content at its sole discretion if such conduct occurs. Twota Technologies Inc. will cooperate with law-enforcement authorities and Apple Inc. where required by applicable law.
 
@@ -428,7 +532,6 @@ Privacy Policy
 
 ----------------------------
 
-
 Effective Date: March 17, 2026
 
 Twota Technologies Inc. (“Twota”, “we”, “us”, or “our”) is committed to respecting and protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use the “Twota” app. By downloading, registering, or using the app, you acknowledge that you have read, understood, and agreed to the terms of this Policy.
@@ -436,6 +539,7 @@ Twota Technologies Inc. (“Twota”, “we”, “us”, or “our”) is commi
 1.	Information We Collect
 
 “Twota” collects information to create your account, operate the app, and maintain a safe, genuine, and personalized experience for all users. We collect the following categories of data:
+
 1.1 Information You Provide Directly
 
 When you create or use your “Twota” profile, you provide personal information voluntarily as part of the app’s core functionality. This includes, but is not limited to:
@@ -470,11 +574,11 @@ By providing this information, you consent to its processing as described in thi
 
 We automatically collect limited technical data when you use the app, such as:
 
-▪Device information (e.g., IMEI, MAC address, IP address, Operating System, device model, and unique device identifiers).
+▪Device information (e.g., IMEI, MAC address, IP address, Operating System, device model, and unique device identifiers)
 
-▪App usage data and interaction patterns.
+▪App usage data and interaction patterns
 
-▪Approximate location derived from your IP address or device settings.
+▪Approximate location derived from your IP address or device settings
 
 This helps us maintain performance, detect fraud, and improve user safety.
 
@@ -482,11 +586,11 @@ This helps us maintain performance, detect fraud, and improve user safety.
 
 We may receive limited information from third-party sources, including:
 
-▪Linked social media accounts, if you choose to connect them.
+▪Linked social media accounts, if you choose to connect them
 
-▪Analytics providers that help us understand app usage and reliability.
+▪Analytics providers that help us understand app usage and reliability
 
-▪Service providers supporting hosting, moderation, and performance analysis.
+▪Service providers supporting hosting, moderation, and performance analysis
 
 ☑ Note: We do not collect biometric or health data.
 
@@ -494,23 +598,23 @@ We may receive limited information from third-party sources, including:
 
 Depending on your jurisdiction, Twota Technologies Inc. processes your personal information under one or more of the following lawful bases:
 
-▪Consent.
+▪Consent
 
 You give consent when you provide personal information — such as profile details, ethnicity, or photos — by creating and maintaining your account. You may withdraw consent at any time by editing your profile or deleting your account.
 
-▪Performance of a Contract.
+▪Performance of a Contract
 
 Processing is necessary to operate the “Twota” app’s core functions, including registration, verification, matchmaking, messaging, and safety monitoring.
 
-▪Compliance with Legal Obligations.
+▪Compliance with Legal Obligations
 
 We may process or disclose data to comply with applicable laws, court orders, or lawful requests from authorities.
 
-▪Legitimate Interests.
+▪Legitimate Interests
 
 We process certain data to maintain platform integrity, detect misuse, prevent fraud, enhance usability, and improve the user experience—provided these interests are not overridden by your fundamental rights or freedoms.
 
-▪Explicit Consent for Sensitive Information.
+▪Explicit Consent for Sensitive Information
 
 For sensitive information (such as ethnicity), we rely on your explicit consent. Selecting or updating this field signifies consent for its limited use and display within your profile. You may withdraw this consent at any time by selecting “Other” or by deleting your account.
 
@@ -518,17 +622,17 @@ For sensitive information (such as ethnicity), we rely on your explicit consent.
 
 We use your information for the following purposes:
 
-▪To create, manage, and maintain your account.
+▪To create, manage, and maintain your account
 
-▪To provide matchmaking and connection features.
+▪To provide matchmaking and connection features
 
-▪To communicate important updates.
+▪To communicate important updates
 
-▪To monitor and analyze usage patterns and detect fraud or misuse.
+▪To monitor and analyze usage patterns and detect fraud or misuse
 
-▪To comply with applicable legal and regulatory obligations.
+▪To comply with applicable legal and regulatory obligations
 
-▪To conduct research and development for new features and services.
+▪To conduct research and development for new features and services
 
 We may also use automated decision-making or profiling tools to support user safety, content moderation, and personalized recommendations. These systems are periodically reviewed to ensure they operate fairly, accurately, and without bias.
 
@@ -566,13 +670,13 @@ We retain data as needed for operations, legal obligations, and fraud prevention
 
 Depending on your jurisdiction, you may have the right to:
 
-▪Access/update/delete account information.
+▪Access/update/delete account information
 
-▪Request a copy of your data if you have not deleted your profile (data portability).
+▪Request a copy of your data if you have not deleted your profile (data portability)
 
-▪Restrict or object to certain types of data processing.
+▪Restrict or object to certain types of data processing
 
-▪Withdraw your consent at any time (where applicable).
+▪Withdraw your consent at any time (where applicable)
 
 To exercise any of these rights, please contact us at “ info@twota.ca ”. We will respond to all verified requests within 30 business days.
 
@@ -607,20 +711,14 @@ If you have any questions or concerns about these Terms of Service and Privacy P
 “Twota” Support Team:
 
 ▪Website: www.twota.ca
-
 ▪Email: info@twota.ca
-
 ▪Inside the app: Profile > About Us
-
 ▪Phone: (+1) 778-330-9682
-
 Social Media:
-
-    ▪Instagram: @twota.dating
-
-    ▪YouTube: @twota.dating
-
-    ▪TikTok: @twota.dating
+▪Instagram: @twota.dating
+▪YouTube: @twota.dating
+▪TikTok: @twota.dating
 
 By using the “Twota” app, you acknowledge that you have read, understood, and agreed to these "Terms of Service and Privacy Policy".
-Thank you for choosing “Twota”!
+Thank you for choosing “Twota” App.
+
