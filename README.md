@@ -5,7 +5,7 @@ Terms of Service and End-User License Agreement (EULA)
 
 ----------------------------
 
-Effective Date: March 17, 2026
+Effective Date: March 19, 2026
 
 Welcome to “Twota” ©, a social networking platform with a built-in dating feature designed to help users connect for dating, friendship, or both. By downloading, accessing, or using “Twota”, you acknowledge and agree to be bound by the following Terms and Conditions ("Terms").
 
@@ -409,7 +409,7 @@ Available report options include:
 
 ▪Inappropriate Content
 
-▪Underage User (used for child safety concerns, minors, or suspected child exploitation)
+▪Child Safety
 
 Handling Reports:
 
@@ -427,7 +427,7 @@ Each report is reviewed carefully. Depending on the severity of the violation, a
 
 Child Safety Enforcement
 
-Any report involving minors, underage users, child sexual abuse, exploitation, or suspected CSAM is treated with the highest priority.
+Any report involving child safety, minors, underage users, child sexual abuse, exploitation, or suspected CSAM is treated with the highest priority.
 
 When Twota Technologies Inc. obtains actual knowledge of child sexual abuse material (CSAM) or child exploitation, we will:
 
@@ -532,7 +532,7 @@ Privacy Policy
 
 ----------------------------
 
-Effective Date: March 17, 2026
+Effective Date: March 19, 2026
 
 Twota Technologies Inc. (“Twota”, “we”, “us”, or “our”) is committed to respecting and protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use the “Twota” app. By downloading, registering, or using the app, you acknowledge that you have read, understood, and agreed to the terms of this Policy.
 
