@@ -717,14 +717,22 @@ If you have any questions or concerns about these Terms of Service and Privacy P
 “Twota” Support Team:
 
 ▪Website: www.twota.ca
+
 ▪Email: info@twota.ca
+
 ▪Inside the app: Profile > About Us
+
 ▪Phone: (+1) 778-330-9682
+
 Social Media:
+
 ▪Instagram: @twota.dating
+
 ▪YouTube: @twota.dating
+
 ▪TikTok: @twota.dating
 
 By using the “Twota” app, you acknowledge that you have read, understood, and agreed to these "Terms of Service and Privacy Policy".
+
 Thank you for choosing “Twota” App.
 
