@@ -3,16 +3,11 @@
 ![Logo](https://github.com/user-attachments/assets/84d19a9e-9be9-46ee-afbe-05a60f4ebc34)
 
 
-
-
-
-![Logo](https://github.com/user-attachments/assets/934f72b2-2051-4988-aa59-96d1a493affa)
-
-
-
 ----------------------------
 
-Terms of Service and End-User License Agreement (EULA)
+“Twota” Terms of Service and End-User License Agreement (EULA)
+
+Operated by: Twota Technologies Inc.
 
 ----------------------------
 
