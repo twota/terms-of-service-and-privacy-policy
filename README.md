@@ -11,7 +11,7 @@ Operated by: Twota Technologies Inc.
 
 ----------------------------
 
-Effective Date: March 19, 2026
+Effective Date: March 22, 2026
 
 Welcome to “Twota” ©, a social networking platform with a built-in dating feature designed to help users connect for dating, friendship, or both. By downloading, accessing, or using “Twota”, you acknowledge and agree to be bound by the following Terms and Conditions ("Terms").
 
@@ -538,7 +538,7 @@ Privacy Policy
 
 ----------------------------
 
-Effective Date: March 19, 2026
+Effective Date: March 22, 2026
 
 Twota Technologies Inc. (“Twota”, “we”, “us”, or “our”) is committed to respecting and protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use the “Twota” app. By downloading, registering, or using the app, you acknowledge that you have read, understood, and agreed to the terms of this Policy.
 
