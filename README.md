@@ -11,7 +11,7 @@ Operated by: Twota Technologies Inc.
 
 ----------------------------
 
-Effective Date: March 22, 2026
+Effective Date: May 28, 2026
 
 Welcome to “Twota” ©, a social networking platform with a built-in dating feature designed to help users connect for dating, friendship, or both. By downloading, accessing, or using “Twota”, you acknowledge and agree to be bound by the following Terms and Conditions ("Terms").
 
@@ -25,7 +25,7 @@ Twota Technologies Inc. operates the “Twota” app, available on the Apple App
 
 ▪“New”: In the “New” tab, browse users filtered by sexuality, age, distance, and other preferences using our intelligent matching algorithm. You can like or dislike profiles — mutual likes result in a match.
 
-▪“Wall”: The “Wall” tab is available to users who are verified and have created a banner. In this tab, users can browse banners from other users, filtered by sexuality, age, distance, and additional preferences.
+▪“Wall”: The “Wall” tab is available to users who have created a “Vibe”. In this tab, users can explore vibes posted by other users, filtered by sexuality, age, distance, and additional preferences. Contact displayed on the wall is visible only to verified users.
 
 ◾"LiveChat":
 
@@ -110,6 +110,10 @@ If a user registers for a “Twota” account but does not successfully complete
 If a user registers for a “Twota” account but has not engaged in any activity or usage of the “Twota” application for more than "90 calendar days".
 
 In such cases, “Twota” may classify such accounts as inactive or spam and will make them invisible, suspend, block, or permanently delete them without prior notice.
+
+🔔 Important Note:
+
+If a user creates a profile containing low-quality, watermarked, unrealistic, or inappropriate photos, or incomplete or meaningless profile sections, or content that violates our Terms or Policies, or personal information such as phone numbers shared within profile sections, the profile may be temporarily hidden until the content is updated and the user successfully completes the verification process.
 
 4.4 Account Responsibility
 
@@ -538,7 +542,7 @@ Privacy Policy
 
 ----------------------------
 
-Effective Date: March 22, 2026
+Effective Date: May 28, 2026
 
 Twota Technologies Inc. (“Twota”, “we”, “us”, or “our”) is committed to respecting and protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use the “Twota” app. By downloading, registering, or using the app, you acknowledge that you have read, understood, and agreed to the terms of this Policy.
 
