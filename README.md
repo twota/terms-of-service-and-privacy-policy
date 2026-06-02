@@ -113,7 +113,7 @@ In such cases, “Twota” may classify such accounts as inactive or spam and wi
 
 🔔 Important Note:
 
-If a user creates a profile containing low-quality, watermarked, unrealistic, or inappropriate photos, or incomplete or meaningless profile sections, or content that violates our Terms or Policies, or personal information such as phone numbers shared within profile sections, the profile may be temporarily hidden until the content is updated and the user successfully completes the verification process.
+If a user creates a profile containing low-quality, watermarked, unrealistic, or inappropriate photos, or incomplete or low-effort profile information, or content that violates our Terms or Policies, or personal information such as phone numbers shared within profile sections, the profile may be temporarily hidden until the content is updated and the user successfully completes the verification process.
 
 4.4 Account Responsibility
 
