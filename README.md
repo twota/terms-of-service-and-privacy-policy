@@ -27,7 +27,7 @@ Twota Technologies Inc. operates the “Twota” app, available on the Apple App
 
 ▪“Wall”: The “Wall” tab is available to users who have created a “Vibe”. In this tab, users can explore vibes posted by other users, filtered by sexuality, age, distance, and additional preferences. Contact displayed on the wall is visible only to verified users.
 
-◾"LiveChat":
+◾"LiveBar":
 
 Connect in real time with online users who match your sexuality, age, and distance preferences.
 
@@ -121,7 +121,7 @@ You are solely responsible for maintaining the confidentiality of your login cre
 
 4.5 Account Pausing
 
-Paused accounts do not appear in Explore, but users can still use LiveChat, BlindDate, and message existing matches.
+Paused accounts do not appear in Explore, but users can still use LiveBar, BlindDate, and message existing matches.
 
 4.6 Match and Message Limits
 
@@ -233,7 +233,7 @@ Your use of “Twota” is subject to our Privacy Policy. By using the app, you 
 
 8.1 Reporting Users
 
-▪Only verified users can report others in Explore and LiveChat.
+▪Only verified users can report others in Explore and LiveBar.
 
 ▪All users can report their active matches directly within the chat.
 
